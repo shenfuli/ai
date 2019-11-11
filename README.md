@@ -41,7 +41,7 @@ https://edu.51cto.com/topic/2640.html<br>
 [9]Python 数据可视化工具库<br>
 https://edu.csdn.net/combo/detail/1422<br>
 
-## 平台介绍
+## 更多资料学习资源
 * CSDN: https://edu.csdn.net/lecturer/894
 * 51CTO: https://edu.51cto.com/lecturer/14351901.html
 
