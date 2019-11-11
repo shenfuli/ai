@@ -16,27 +16,29 @@
 
 
 ## AI基础学习资料
-[1] 人工智能-深度学习框架-Pytorch 案例实战视频课程<br>
+[1]深度学习Pytorch项目实战 垃圾分类 <br>
+（11/20 前发布资料） <br>
+[2] 人工智能-深度学习框架-Pytorch 案例实战视频课程<br>
 https://edu.csdn.net/course/detail/25802<br>
 https://edu.51cto.com/sd/4ee40<br>
-[2] Python 数据分析案例实战 视频课程<br>
+[3] Python 数据分析案例实战 视频课程<br>
 https://edu.csdn.net/course/detail/25803<br>
 https://edu.51cto.com/sd/63225<br>
-[3] Python 数据可视化 Matplotlib 实战 视频课程<br>
+[4] Python 数据可视化 Matplotlib 实战 视频课程<br>
 https://edu.csdn.net/course/detail/24933<br>
 https://edu.51cto.com/sd/fffda<br>
-[4] Python 数据可视化 pyecharts 实战<br>
+[5] Python 数据可视化 pyecharts 实战<br>
 https://edu.csdn.net/course/detail/24934<br>
 https://edu.51cto.com/sd/22a0c<br>
-[5] Python 数据可视化教程：基于 Plotly 的动态可视化绘图<br>
+[6] Python 数据可视化教程：基于 Plotly 的动态可视化绘图<br>
 https://edu.csdn.net/course/detail/24935<br>
 https://edu.51cto.com/sd/4bff8<br>
-[6] Python 数据可视化库 Seaborn<br>
+[7] Python 数据可视化库 Seaborn<br>
 https://edu.csdn.net/course/detail/24790<br>
 https://edu.51cto.com/sd/19627<br>
-[7] Python 全栈开发/人工智能/数据分析 专题<br>
+[8] Python 全栈开发/人工智能/数据分析 专题<br>
 https://edu.51cto.com/topic/2640.html<br>
-[8]Python 数据可视化工具库<br>
+[9]Python 数据可视化工具库<br>
 https://edu.csdn.net/combo/detail/1422<br>
 
 ## 平台介绍
