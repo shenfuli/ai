@@ -48,3 +48,6 @@ https://edu.csdn.net/combo/detail/1422<br>
 ## 有任何问题可以weixin交流学习
 
 ![avatar](images/weixin.png)
+
+
+另外，QQ 请添加 1121025745，提供相关学习资料
