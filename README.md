@@ -43,6 +43,6 @@ https://edu.csdn.net/combo/detail/1422<br>
 * CSDN: https://edu.csdn.net/lecturer/894
 * 51CTO: https://edu.51cto.com/lecturer/14351901.html
 
-## 有任何问题可以交流学习
+## 有任何问题可以weixin交流学习
 
 ![avatar](images/weixin.png)
