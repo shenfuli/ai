@@ -44,10 +44,4 @@ https://edu.csdn.net/combo/detail/1422<br>
 ## 更多资料学习资源
 * CSDN: https://edu.csdn.net/lecturer/894
 * 51CTO: https://edu.51cto.com/lecturer/14351901.html
-
-## 有任何问题可以weixin交流学习
-
-![avatar](images/weixin.png)
-
-
 另外，QQ 请添加 1121025745，提供相关学习资料
