@@ -13,7 +13,7 @@
 和深度学习相关的内容具有多年的工作经验，工作中多用到的 pytorch，python，xgboost 等。
 
 * 擅长领域：PyTorch、Python、Java、Spark、Storm、Kafka、XGBoost、Scikit-learn
-
+* 联系方式：QQ 请添加 1121025745，提供相关学习资料
 
 ## AI基础学习资料
 [1]深度学习Pytorch项目实战 垃圾分类 <br>
