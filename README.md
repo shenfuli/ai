@@ -14,6 +14,9 @@
 
 * 擅长领域：PyTorch、Python、Java、Spark、Storm、Kafka、XGBoost、Scikit-learn
 * 联系方式：QQ 请添加 1121025745，提供相关学习资料
+* 更多资料学习资源<br>
+CSDN: https://edu.csdn.net/lecturer/894<br>
+51CTO: https://edu.51cto.com/lecturer/14351901.html<br>
 
 ## AI基础学习资料
 [1]深度学习Pytorch项目实战 垃圾分类 <br>
@@ -41,7 +44,3 @@ https://edu.51cto.com/topic/2640.html<br>
 [9]Python 数据可视化工具库<br>
 https://edu.csdn.net/combo/detail/1422<br>
 
-## 更多资料学习资源
-* CSDN: https://edu.csdn.net/lecturer/894
-* 51CTO: https://edu.51cto.com/lecturer/14351901.html
-另外，QQ 请添加 1121025745，提供相关学习资料
