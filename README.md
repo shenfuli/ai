@@ -20,7 +20,8 @@ CSDN: https://edu.csdn.net/lecturer/894<br>
 
 ## AI基础学习资料
 [1]深度学习Pytorch项目实战 垃圾分类 <br>
-（11/20 前发布资料） <br>
+https://edu.51cto.com/course/20885.html <br>
+https://edu.csdn.net/course/detail/26983 <br>
 [2] 人工智能-深度学习框架-Pytorch 案例实战视频课程<br>
 https://edu.csdn.net/course/detail/25802<br>
 https://edu.51cto.com/sd/4ee40<br>
