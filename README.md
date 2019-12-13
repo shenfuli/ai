@@ -19,7 +19,7 @@ CSDN: https://edu.csdn.net/lecturer/894<br>
 51CTO: https://edu.51cto.com/lecturer/14351901.html<br>
 
 ## AI基础学习资料
-[1]深度学习Pytorch项目实战 垃圾分类 <br>
+[1] PyTorch实战-深度学习之图像分类（垃圾分类案例） <br>
 https://edu.51cto.com/course/20885.html <br>
 https://edu.csdn.net/course/detail/26983 <br>
 [2] 人工智能-深度学习框架-Pytorch 案例实战视频课程<br>
