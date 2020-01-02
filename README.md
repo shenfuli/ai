@@ -22,7 +22,7 @@ CSDN: https://edu.csdn.net/lecturer/894<br>
 [1] PyTorch实战-深度学习之图像分类（垃圾分类案例） <br>
 https://edu.51cto.com/course/20885.html <br>
 https://edu.csdn.net/course/detail/26983 <br>
-[2] 人工智能-深度学习框架-Pytorch 案例实战视频课程<br>
+[2] PyTorch实战-深度之图像分类入门（kaggle案例：猫狗分类）<br>
 https://edu.csdn.net/course/detail/25802<br>
 https://edu.51cto.com/sd/4ee40<br>
 [3] Python 数据分析案例实战 视频课程<br>
