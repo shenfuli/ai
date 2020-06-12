@@ -44,4 +44,7 @@ https://edu.51cto.com/sd/19627<br>
 https://edu.51cto.com/topic/2640.html<br>
 [9]Python 数据可视化工具库<br>
 https://edu.csdn.net/combo/detail/1422<br>
+[10] 深度学习之情感分析案例实战
+https://edu.csdn.net/course/detail/26987
+https://edu.51cto.com/course/21538.html?source=so
 
